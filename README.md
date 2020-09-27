@@ -9,3 +9,5 @@ Concepts used:
 * Java Core
 * HTML
 * Maven
+  
+![MainPage](chuckNorris.png)
